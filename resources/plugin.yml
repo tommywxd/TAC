@@ -1,0 +1,8 @@
+name: TAC
+main: cc.tommyw.tac.TAC
+version: 0.1
+depend: [ProtocolLib]
+commands:
+  tacka:
+    description: TAC KillAura
+    usage: /tacka
